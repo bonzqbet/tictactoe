@@ -4,8 +4,5 @@
 ไฟล์ .env extends .env.example
 
 # use command
-npm install
-
-npm run dev
 
 composer require laravel/ui
