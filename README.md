@@ -1,4 +1,4 @@
-# tictactoe
+# XO Game
 สร้างไฟล์ .env และแก้ไข password DB
 
 ไฟล์ .env extends .env.example
